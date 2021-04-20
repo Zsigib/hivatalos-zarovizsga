@@ -1,5 +1,4 @@
 package hu.nive.ujratervezes.zarovizsga.housecup;
-package hu.nive.ujratervezes.zarovizsga.housecup;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
