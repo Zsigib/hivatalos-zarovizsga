@@ -38,7 +38,7 @@ public abstract class Fish {
 
     public String status()
     {
-        return name + ", weight: " + weight + ", color: " + color + ", short-term memory loss: " + shortTermMemoryLoss;
+        return name + ", weight: " + weight + ", color: " + color + ", short term memory loss: " + shortTermMemoryLoss;
     }
 
     public abstract void feed();
